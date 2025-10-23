@@ -4,3 +4,5 @@ digitando precise colocar o numero de bilhão inteiro para a conta estár corret
 -Densidade populacional funciona diferente, quanto menor o numero melhor.
 
 depois selecione quais atributos você deseja comparar, você irá selecionar 2, mas apenas 1 por opção.
+
+então veja o resultado. em caso de escolher uma opção errada, será necessario iniciar o programa de novo.
